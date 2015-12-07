@@ -1,2 +1,6 @@
 # hello-world
-Hello to the world, how hard can it be?
+=============
+
+Hi Humans!
+
+Can Haz code?
